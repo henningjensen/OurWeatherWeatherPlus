@@ -155,7 +155,7 @@ char uuid[]   = WEATHERPLUSPUBNUBPROTOCOL;
 
 #include "MaREST.h"
 
-#include <String.h>
+#include <string.h>
 
 
 
