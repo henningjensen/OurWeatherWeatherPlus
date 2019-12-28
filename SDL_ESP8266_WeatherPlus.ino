@@ -234,7 +234,7 @@ aREST rest = aREST();
 
 
 
-#include "elapsedMillis.h"
+#include "elapsedmillis.h"
 
 elapsedMillis timeElapsed; //declare global if you don't want it reset every time loop
 
