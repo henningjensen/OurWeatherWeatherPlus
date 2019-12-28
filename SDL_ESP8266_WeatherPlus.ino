@@ -634,7 +634,7 @@ float SolarPanelCurrent;
 // WXLink Support
 
 
-#include "Crc16.h"
+#include "crc16.h"
 
 //Crc 16 library (XModem)
 Crc16 crc;
